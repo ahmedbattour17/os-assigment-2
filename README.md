@@ -1,6 +1,6 @@
 # os-assigment-2
 
-this assigment for Roun drobin and Shortest job first
+this assigment for Round robin and Shortest job first
 
 ## SJF
 
